@@ -1,2 +1,41 @@
 
-{"name":"John"}
+    {
+    id: "1",
+    title: "Web Development",
+    image: require("../../assets/s.jpg"),
+    description: "lorem21",
+    courses1: "HTML",
+    courses2: "CSS",
+    courses3: "Javascript",
+    price: 5000,
+
+
+},
+    {
+    id: "2",
+    title: "Web Development",
+    image: require("../../assets/s.jpg"),
+    description: "lorem21",
+    courses1: "HTML",
+    courses2: "CSS",
+    courses3: "Javascript",
+    price: 5000,
+
+
+},
+    {
+    id: "3",
+    title: "Web Development",
+    image: require("../../assets/s.jpg"),
+    description: "lorem21",
+    courses1: "HTML",
+    courses2: "CSS",
+    courses3: "Javascript",
+    price: 5000,
+
+
+}
+
+
+
+
